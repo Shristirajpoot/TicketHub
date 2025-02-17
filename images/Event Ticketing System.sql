@@ -5,7 +5,7 @@ CREATE TABLE "users" (
   "role" varchar NOT NULL,
   "created_at" timestamptz DEFAULT (now())
 );
-
+--hi 
 CREATE TABLE "events" (
   "id" bigserial PRIMARY KEY,
   "organizer_id" bigint NOT NULL,
