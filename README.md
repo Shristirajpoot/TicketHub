@@ -1,6 +1,6 @@
-# Eventura - Scalable Event Ticketing System 🎟️
+# TicketHub - Scalable Event Ticketing System 🎟️
 
-Eventura is a modern and scalable event ticketing system designed to provide seamless event management, ticket purchases, and payment processing. Built with **Golang** and **PostgreSQL** for the backend, and **Next.js** with **TypeScript** for the frontend, this system ensures high performance, secure authentication, and real-time features.
+TicketHub is a modern and scalable event ticketing system designed to provide seamless event management, ticket purchases, and payment processing. Built with **Golang** and **PostgreSQL** for the backend, and **Next.js** with **TypeScript** for the frontend, this system ensures high performance, secure authentication, and real-time features.
 
 ## Features 🌟
 - **User Authentication:** Secure login and registration with JWT token management.
