@@ -88,4 +88,24 @@ Commit your changes: git commit -m 'Add feature'.
 Push your changes: git push origin feature/your-feature.
 Submit a Pull Request.
 
+## Deployment & Monitoring Tips
 
+Use AWS EC2 or Render to deploy backend containers.
+
+Integrate Grafana + Prometheus for live monitoring.
+
+Use Logrus or Zap for structured logging.
+
+## Learning & Takeaways
+
+While building TicketHub, I deepened my understanding of:
+
+Designing scalable backend systems using Golang.
+
+Dockerizing microservices and managing multi-container environments.
+
+Implementing real-time features and resilient infrastructure.
+
+Setting up CI/CD pipelines and handling environment-based configurations.
+
+Writing clean, testable, production-level code with modular architecture
